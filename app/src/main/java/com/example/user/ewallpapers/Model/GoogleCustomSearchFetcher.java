@@ -3,6 +3,8 @@ package com.example.user.ewallpapers.Model;
 import android.net.Uri;
 import android.util.Log;
 
+import com.example.user.ewallpapers.WallpapersItem;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;

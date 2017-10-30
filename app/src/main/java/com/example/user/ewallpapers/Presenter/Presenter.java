@@ -2,7 +2,7 @@ package com.example.user.ewallpapers.Presenter;
 
 import com.example.user.ewallpapers.MVPContract;
 import com.example.user.ewallpapers.Model.Model;
-import com.example.user.ewallpapers.Model.WallpapersItem;
+import com.example.user.ewallpapers.WallpapersItem;
 
 import java.util.List;
 

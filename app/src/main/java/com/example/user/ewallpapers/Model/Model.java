@@ -4,6 +4,7 @@ import android.os.AsyncTask;
 import android.util.Log;
 
 import com.example.user.ewallpapers.MVPContract;
+import com.example.user.ewallpapers.WallpapersItem;
 
 import java.util.List;
 import java.util.concurrent.ExecutionException;

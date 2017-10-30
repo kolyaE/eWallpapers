@@ -1,7 +1,5 @@
 package com.example.user.ewallpapers;
 
-import com.example.user.ewallpapers.Model.WallpapersItem;
-
 import java.util.List;
 
 public class MVPContract {

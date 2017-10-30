@@ -1,10 +1,10 @@
-package com.example.user.ewallpapers.Model;
+package com.example.user.ewallpapers;
 
 public class WallpapersItem {
 
-    private String url;
     private String title;
-    private String urlHD;
+    private String url;     //icon
+    private String urlHD;   //real image
 
     public String getTitle() {
         return title;
